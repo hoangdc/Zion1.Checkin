@@ -1,0 +1,6 @@
+@Zion1.Checkin.API_HostAddress = http://localhost:5160
+
+GET {{Zion1.Checkin.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
